@@ -1,0 +1,17 @@
+.virat {
+  width: 300px;
+  height: 200px;
+  background-color: orangered;
+  color: white;
+  border-radius: 20px;
+  margin: auto;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+/* .btn {
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 15px;
+  margin-top: 20px;
+} */
